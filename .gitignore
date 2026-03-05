@@ -1,6 +1,6 @@
 __pycache__/
 *.py[cod]
 build/
-dist/
+dist/disk_idle_shutdown.log
 *.log
 disk_idle_shutdown_gui.settings.json
